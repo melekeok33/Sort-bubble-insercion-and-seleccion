@@ -1,5 +1,5 @@
 #------------------Documentacion interna-------------------
-#       Autor: Manuel Roca (e11.manuelvicente.rocal@suizoamericano.edu.gt)
+#       Autor: Manuel Roca 
 #       fecha de creacion: 04/08/2025
 #       procesos pendientes: N/A
 #       Lenguaje de programacion: Python
@@ -124,4 +124,5 @@ class sorts_github(Tk):
 
     def graficar (self):
     
+
 sorts_github().mainloop()
